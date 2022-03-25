@@ -1,0 +1,11 @@
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\bin\Debug\netstandard2.0\Classificador de agua potavelML.Model.deps.json
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\bin\Debug\netstandard2.0\Classificador de agua potavelML.Model.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\bin\Debug\netstandard2.0\Classificador de agua potavelML.Model.pdb
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\obj\Debug\netstandard2.0\Classificador de agua potavelML.Model.csproj.AssemblyReference.cache
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\obj\Debug\netstandard2.0\Classificador de agua potavelML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\obj\Debug\netstandard2.0\Classificador de agua potavelML.Model.AssemblyInfoInputs.cache
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\obj\Debug\netstandard2.0\Classificador de agua potavelML.Model.AssemblyInfo.cs
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\obj\Debug\netstandard2.0\Classificador de agua potavelML.Model.csproj.CoreCompileInputs.cache
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\obj\Debug\netstandard2.0\Classificador de agua potavelML.Model.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavelML.Model\obj\Debug\netstandard2.0\Classificador de agua potavelML.Model.pdb

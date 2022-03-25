@@ -1,0 +1,39 @@
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\MLModel.zip
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Classificador de agua potavel.exe
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Classificador de agua potavel.deps.json
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Classificador de agua potavel.runtimeconfig.json
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Classificador de agua potavel.runtimeconfig.dev.json
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Classificador de agua potavel.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\ref\Classificador de agua potavel.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Classificador de agua potavel.pdb
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Microsoft.ML.Core.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Microsoft.ML.Data.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Microsoft.ML.FastTree.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Classificador de agua potavelML.Model.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\bin\Debug\net5.0\Classificador de agua potavelML.Model.pdb
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\obj\Debug\net5.0\Classificador de agua potavel.csproj.AssemblyReference.cache
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\obj\Debug\net5.0\Classificador de agua potavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\obj\Debug\net5.0\Classificador de agua potavel.AssemblyInfoInputs.cache
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\obj\Debug\net5.0\Classificador de agua potavel.AssemblyInfo.cs
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\obj\Debug\net5.0\Classificador de agua potavel.csproj.CoreCompileInputs.cache
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\obj\Debug\net5.0\Classificador de agua potavel.csproj.CopyComplete
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\obj\Debug\net5.0\Classificador de agua potavel.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\obj\Debug\net5.0\ref\Classificador de agua potavel.dll
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\obj\Debug\net5.0\Classificador de agua potavel.pdb
+C:\Users\luanc\source\repos\Classificador de agua potavel\Classificador de agua potavel\obj\Debug\net5.0\Classificador de agua potavel.genruntimeconfig.cache

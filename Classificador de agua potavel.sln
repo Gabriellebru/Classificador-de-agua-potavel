@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classificador de agua potavel", "Classificador de agua potavel\Classificador de agua potavel.csproj", "{72C5A852-CFFB-41F3-A79E-69B0F7BD5AC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classificador de agua potavelML.Model", "Classificador de agua potavelML.Model\Classificador de agua potavelML.Model.csproj", "{6D70692A-2038-4FD6-AF7F-926E184893CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classificador de agua potavelML.ConsoleApp", "Classificador de agua potavelML.ConsoleApp\Classificador de agua potavelML.ConsoleApp.csproj", "{ABEE130D-36C7-4E88-8CF6-CC732F8A5F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C5A852-CFFB-41F3-A79E-69B0F7BD5AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C5A852-CFFB-41F3-A79E-69B0F7BD5AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C5A852-CFFB-41F3-A79E-69B0F7BD5AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C5A852-CFFB-41F3-A79E-69B0F7BD5AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D70692A-2038-4FD6-AF7F-926E184893CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D70692A-2038-4FD6-AF7F-926E184893CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D70692A-2038-4FD6-AF7F-926E184893CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D70692A-2038-4FD6-AF7F-926E184893CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEE130D-36C7-4E88-8CF6-CC732F8A5F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEE130D-36C7-4E88-8CF6-CC732F8A5F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEE130D-36C7-4E88-8CF6-CC732F8A5F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEE130D-36C7-4E88-8CF6-CC732F8A5F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11CECE53-13CD-4F84-815A-102539A76D54}
+	EndGlobalSection
+EndGlobal
